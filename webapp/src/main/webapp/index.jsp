@@ -19,6 +19,6 @@
   </div>
 
   <div class="container signin">
-	  <p>why ? ????? YES YES YES I HAVE you Already Already have an account , why ?????? <a href="#">Sign in</a>.</p>
+	  <p>YES YES YES I HAVE you Already Already have an account , why ?????? <a href="#">Sign in</a>.</p>
   </div>
 </form>>
