@@ -19,6 +19,6 @@
   </div>
 
   <div class="container signin">
-	  <p> BY ATTARI ATTARI ATTARI YES YES I friday sunday HAVE you Already Already have an account , why ?????? <a href="#">Sign in</a>.</p>
+	  <p> BY BYE ATTARI ATTARI ATTARI YES YES I friday sunday HAVE you Already Already have an account , why ?????? <a href="#">Sign in</a>.</p>
   </div>
 </form>>
